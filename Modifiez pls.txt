@@ -1,0 +1,20 @@
+Gameplay -> Personnages -> Femme / Homme ?
+
+	 -> Monstres    -> Difficulté
+		        -> ItemDrop
+		        -> Spawn + Chargement des monstres (pour baisser les ressources ?)
+
+	 -> Attaques    -> Types (Physique / Explosion / Magique)
+
+	 -> Ressources  -> Récupération
+		        -> Crafting
+	 -> But du jeu (trouver des indices sur le pourquoi du comment pour Kryslum ?)
+
+	 -> Items       -> De ressource
+		        -> De monstre
+		        -> De craft
+
+	 -> Spawn       -> Joueur
+		        -> Monstre
+		        -> Ressources
+	 	        -> Coffre aléatoire ? pour trouver du stuff
